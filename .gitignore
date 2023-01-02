@@ -1,0 +1,4 @@
+*_build
+*.a
+*.lib
+external/micro-ecc/micro-ecc/

@@ -123,6 +123,23 @@ static ble_gap_adv_data_t m_adv_data =
     }
 };
 
+// qleisan
+void _close_r(void)
+{
+}
+void _lseek(void)
+{
+}
+void _read(void)
+{
+}
+void _write(void)
+{
+}
+
+
+
+
 /**@brief Function for assert macro callback.
  *
  * @details This function will be called in case of an assert in the SoftDevice.
